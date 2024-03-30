@@ -13,6 +13,16 @@
     "electron-builder": "^24.13.3"
   },
   "build": {
-    "appId": "com.backchat.social"
+    "appId": "com.backchat.social",
+    "buildVersion": "minimal"
   }
+  "win": {
+    "target": "nsis"
+  },
+  "mac": {
+    "target": "dmg"
+  },
+  "linux": {
+    "target": "AppImage"
+  },
 }
