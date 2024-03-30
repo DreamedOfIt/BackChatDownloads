@@ -1,0 +1,18 @@
+{
+  "name": "BackChat",
+  "version": "0.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.6",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.backchat.social"
+  }
+}
