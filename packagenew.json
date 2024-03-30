@@ -14,15 +14,15 @@
   },
   "build": {
     "appId": "com.backchat.social",
-    "buildVersion": "minimal"
-  },
-  "win": {
-    "target": "nsis"
-  },
-  "mac": {
-    "target": "dmg"
-  },
-  "linux": {
-    "target": "AppImage"
-  },
+    "buildVersion": "minimal",
+    "win": {
+      "target": "nsis"
+    },
+    "mac": {
+      "target": "dmg"
+    },
+    "linux": {
+      "target": "AppImage"
+    }
+  }
 }
