@@ -15,7 +15,7 @@
   "build": {
     "appId": "com.backchat.social",
     "buildVersion": "minimal"
-  }
+  },
   "win": {
     "target": "nsis"
   },
