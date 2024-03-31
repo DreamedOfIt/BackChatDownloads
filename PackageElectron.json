@@ -12,8 +12,5 @@
   },
   "build": {
     "appId": "com.backchat.social"
-  },
-  "electron-builder": {
-    "console": "off"
   }
 }
