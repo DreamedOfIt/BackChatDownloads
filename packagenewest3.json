@@ -11,9 +11,9 @@
     "electron-builder": "^24.13.3"
   },
   "build": {
-    "appId": "com.backchat.social",
-    "electron-builder": {
-      "console": "warn"
-    }
+    "appId": "com.backchat.social"
+  },
+  "electron-builder": {
+    "console": "minimal"
   }
 }
