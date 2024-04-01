@@ -12,6 +12,7 @@
   },
   "build": {
     "appId": "com.backchat.social",
-    "productName": "BackChatInstaller"
+    "productName": "BackChatFile",
+    "artifactName": "BackChatFile.${ext}" 
   }
 }
