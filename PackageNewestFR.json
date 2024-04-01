@@ -12,7 +12,7 @@
   },
   "build": {
     "appId": "com.backchat.social",
-    "productName": "BackChatFile",
-    "artifactName": "BackChatFile.${ext}" 
+    "productName": "BackChatDesktop",
+    "artifactName": "BackChatDesktop.${ext}" 
   }
 }
